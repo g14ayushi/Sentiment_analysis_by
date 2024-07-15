@@ -1,0 +1,1 @@
+This is a sentiment analysis model that predicts customer reviews of a restaurant .
